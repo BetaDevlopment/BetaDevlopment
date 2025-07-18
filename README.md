@@ -95,7 +95,7 @@
   <a href="https://discord.gg/YOUR_INVITE_HERE">
     <img src="https://img.shields.io/badge/Join%20us%20on%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" />
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:support@galaxymodz.com">
     <img src="https://img.shields.io/badge/Email-us-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
