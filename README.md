@@ -5,7 +5,7 @@
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/beta-development/beta-development/main/assets/banner.gif" width="90%" alt="banner" />
+  <img src="https://capsule-render.vercel.app/api?type=typing&color=gradient&height=100&section=header&text=Beta%20Development&fontSize=40" />
 </p>
 
 ---
