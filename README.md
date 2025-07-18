@@ -1,7 +1,7 @@
 <!-- Profile Header -->
 <h1 align="center">✨ Beta Development ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=600&lines=⚡+Crafting+Cool+Software+Experiences;🚀+Next-Gen+Bots+%26+Web+Solutions;💡+Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FBBF24&center=true&vCenter=true&width=550&lines=⚡+Crafting+Cool+Software+Experiences;🚀+Next-Gen+Bots+%26+Web+Solutions;💡+Code.+Create.+Innovate." alt="Typing SVG" />
 </p>
 
 <p align="center">
