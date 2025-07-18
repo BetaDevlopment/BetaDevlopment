@@ -1,7 +1,6 @@
-<!-- Header with Typing SVG -->
 <h1 align="center">✨ Beta Development ✨</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=FBBF24&center=true&vCenter=true&width=600&lines=⚡+Crafting+Cool+Software+Experiences;🚀+Next-Gen+Bots+%26+Web+Solutions;💡+Code.+Create.+Innovate." alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdTY4OGgxYTRiZmZsYjZsYWd6cm5kdDg5c2ZwdHRnODRrbjZhNThxeCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oriO0OEd9QIDdllqo/giphy.gif" alt="Typing animation" width="500"/>
 </p>
 
 ---
@@ -69,10 +68,3 @@
 ---
 
 > 💬 *“Beta Development — innovating one line at a time.”*
-
----
-
-<!-- Footer Quote -->
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
-</p>
