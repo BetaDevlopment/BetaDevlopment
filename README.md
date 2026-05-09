@@ -213,5 +213,5 @@
 
 ---
 
-> 🧠 *"Beta Development — innovating one line at a time."*
+> 🧠 *"Beta Development | innovating one line at a time."*
 
